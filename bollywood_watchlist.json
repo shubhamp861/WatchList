@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bollywood-sample-1",
+    "title": "3 Idiots",
+    "category": "Bollywood",
+    "status": "Completed",
+    "currentEpisodeValue": 1,
+    "totalEpisodesValue": 1,
+    "genre": "Comedy, Drama, Academic",
+    "rating": 10,
+    "coverUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=600&auto=format&fit=crop&q=60",
+    "synopsis": "Two friends search for their long-lost companion. They revisit their college days and recall the memories of their friend who inspired them to think different.",
+    "notes": "An absolute timeless masterpiece. Full of laugh-out-loud moments and great life lessons.",
+    "tasks": [
+      { "id": "task-b1", "text": "Add 'Give Me Some Sunshine' to favorite tracks list", "completed": true }
+    ],
+    "reminders": [],
+    "createdAt": "2026-04-10T12:00:00.000Z"
+  },
+  {
+    "id": "bollywood-sample-2",
+    "title": "Jawan 2",
+    "category": "Bollywood",
+    "status": "Upcoming",
+    "releaseDate": "2026-12-25T15:30:00.000Z",
+    "genre": "Action, Thriller, Social Justice",
+    "rating": 0,
+    "coverUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&auto=format&fit=crop&q=60",
+    "synopsis": "An emotional journey of a man who is set to rectify the wrongs in society, taking the thrilling vigilante system to new heights.",
+    "notes": "Eagerly waiting for official trailer and casting rumors confirmation.",
+    "tasks": [
+      { "id": "task-b2", "text": "Book IMAX tickets on first day of release", "completed": false }
+    ],
+    "reminders": [],
+    "createdAt": "2026-06-01T10:15:00.000Z"
+  }
+]

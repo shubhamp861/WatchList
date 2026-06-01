@@ -1,0 +1,38 @@
+[
+  {
+    "id": "anime-sample-1",
+    "title": "Frieren: Beyond Journey's End",
+    "category": "Anime",
+    "status": "Completed",
+    "currentEpisodeValue": 28,
+    "totalEpisodesValue": 28,
+    "genre": "Adventure, Fantasy, Drama",
+    "rating": 10,
+    "coverUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=60",
+    "synopsis": "An elf mage and her former party members' journey back to the place where their adventure started, exploring connections and looking forward after the hero's passing.",
+    "notes": "Absolutely gorgeous direction, calming animation pace, and deep emotional resonance.",
+    "tasks": [
+      { "id": "task-a1", "text": "Listen to Evan Call's soundtrack stream", "completed": true },
+      { "id": "task-a2", "text": "Collect and read the manga volume 1", "completed": false }
+    ],
+    "reminders": [],
+    "createdAt": "2026-05-15T08:00:00.000Z"
+  },
+  {
+    "id": "anime-sample-2",
+    "title": "Solo Leveling Season 2",
+    "category": "Anime",
+    "status": "Upcoming",
+    "releaseDate": "2026-09-12T18:00:00.000Z",
+    "genre": "Action, Dark Fantasy, System",
+    "rating": 8,
+    "coverUrl": "https://images.unsplash.com/photo-1560942485-b2a11cc13456?w=600&auto=format&fit=crop&q=60",
+    "synopsis": "Sung Jinwoo returns to explore deeper dungeons and unravel the secrets behind the mysterious system that gave him the power to level up infinitely.",
+    "notes": "Highly anticipated action animation! Season 1 was incredibly exciting.",
+    "tasks": [
+      { "id": "task-a3", "text": "Set up a watch party with friends", "completed": false }
+    ],
+    "reminders": ["2026-09-12T17:00:00.000Z"],
+    "createdAt": "2026-06-01T10:00:00.000Z"
+  }
+]
