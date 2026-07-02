@@ -16,22 +16,5 @@
     ],
     "reminders": [],
     "createdAt": "2026-05-20T11:00:00.000Z"
-  },
-  {
-    "id": "series-sample-2",
-    "title": "The Last of Us Season 2",
-    "category": "Series",
-    "status": "Upcoming",
-    "releaseDate": "2026-08-25T19:00:00.000Z",
-    "genre": "Zombie, Post-Apocalyptic, Drama",
-    "rating": 0,
-    "coverUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=600&auto=format&fit=crop&q=60",
-    "synopsis": "Five years after their dangerous journey across the post-pandemic United States, Joel and Ellie find peace in Jackson, Wyoming.",
-    "notes": "Ready to cry. The adaptation from the console game storyline looks highly faithful.",
-    "tasks": [
-      { "id": "task-s2", "text": "Replay game story mode walkthroughs", "completed": true }
-    ],
-    "reminders": ["2026-08-25T18:00:00.000Z"],
-    "createdAt": "2026-06-01T10:10:00.000Z"
   }
 ]
