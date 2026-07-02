@@ -16,22 +16,5 @@
     ],
     "reminders": [],
     "createdAt": "2026-04-10T12:00:00.000Z"
-  },
-  {
-    "id": "bollywood-sample-2",
-    "title": "Jawan 2",
-    "category": "Bollywood",
-    "status": "Upcoming",
-    "releaseDate": "2026-12-25T15:30:00.000Z",
-    "genre": "Action, Thriller, Social Justice",
-    "rating": 0,
-    "coverUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=600&auto=format&fit=crop&q=60",
-    "synopsis": "An emotional journey of a man who is set to rectify the wrongs in society, taking the thrilling vigilante system to new heights.",
-    "notes": "Eagerly waiting for official trailer and casting rumors confirmation.",
-    "tasks": [
-      { "id": "task-b2", "text": "Book IMAX tickets on first day of release", "completed": false }
-    ],
-    "reminders": [],
-    "createdAt": "2026-06-01T10:15:00.000Z"
   }
 ]
