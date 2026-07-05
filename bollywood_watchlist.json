@@ -1,8 +1,19 @@
 [
-
   {
     "id": "local_added_1783255628083",
-    "title": "Kalki",
+    "title": "Kalki_2",
+    "category": "Bollywood",
+    "status": "Upcoming",
+    "genre": "General",
+    "rating": 0,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuUZQYg5sp1eezcgnZnqJ0IEuBMFr-cUE62Y2tBvOM2w&s=10",
+    "createdAt": "2026-07-05T12:47:08.084Z",
+    "releaseDate": "2027-12-01"
+  } ,
+  
+  {
+    "id": "local_added_1783255628083",
+    "title": "Kalki_1",
     "category": "Bollywood",
     "status": "Upcoming",
     "genre": "General",
