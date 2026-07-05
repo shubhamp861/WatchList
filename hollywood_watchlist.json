@@ -1,20 +1,24 @@
 [
- 
+  
   {
-    "id": "hollywood-sample-2",
-    "title": "Spider-Man: Beyond the Spider-Verse",
+    "id": "local_added_1783265933611",
+    "title": "A dream alone",
     "category": "Hollywood",
-    "status": "Upcoming",
-    "releaseDate": "2026-10-30T10:00:00.000Z",
-    "genre": "Animation, Action, Sci-Fi",
-    "rating": 0,
-    "coverUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820?w=600&auto=format&fit=crop&q=60",
-    "synopsis": "The highly anticipated finale of Miles Morales' journey through parallel dimensions across the Spider-Verse.",
-    "notes": "Must stay completely offline around release week to protect against visual spoiler posts.",
-    "tasks": [
-      { "id": "task-h2", "text": "Rewatch Across the Spider-Verse movie", "completed": false }
-    ],
-    "reminders": ["2026-10-29T10:00:00.000Z"],
-    "createdAt": "2026-06-01T09:40:00.000Z"
+    "status": "Plan to Watch",
+    "genre": "General",
+    "rating": 10,
+    "createdAt": "2026-07-05T15:38:53.611Z",
+    "releaseDate": "2026-07-01"
+  },
+  {
+    "id": "local_added_1783265906646",
+    "title": "Doctor Strange in the Multiverse of Madness",
+    "category": "Hollywood",
+    "status": "Plan to Watch",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuUZQYg5sp1eezcgnZnqJ0IEuBMFr-cUE62Y2tBvOM2w&s=10",
+    "createdAt": "2026-07-05T15:38:26.646Z",
+    "releaseDate": "2026-07-01"
   }
 ]
