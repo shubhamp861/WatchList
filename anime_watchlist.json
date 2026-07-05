@@ -1,21 +1,24 @@
 [
   {
-    "id": "anime-sample-11",
-    "title": "Frieren: Beyond Journey's End",
+    "id": "local_added_1783265221410",
+    "title": "Black clover",
     "category": "Anime",
-    "status": "Completed",
-    "currentEpisodeValue": 28,
-    "totalEpisodesValue": 28,
-    "genre": "Adventure, Fantasy, Drama",
+    "status": "Upcoming",
+    "genre": "General",
     "rating": 10,
-    "coverUrl": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=600&auto=format&fit=crop&q=60",
-    "synopsis": "An elf mage and her former party members' journey back to the place where their adventure started, exploring connections and looking forward after the hero's passing.",
-    "notes": "Absolutely gorgeous direction, calming animation pace, and deep emotional resonance.",
-    "tasks": [
-      { "id": "task-a1", "text": "Listen to Evan Call's soundtrack stream", "completed": true },
-      { "id": "task-a2", "text": "Collect and read the manga volume 1", "completed": false }
-    ],
-    "reminders": [],
-    "createdAt": "2026-05-15T08:00:00.000Z"
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH_9B6W9DG2EkaSZ1ws2JYCQ18-CFyRC-EYCNU5ymWSA&s=10",
+    "createdAt": "2026-07-05T15:27:01.410Z",
+    "releaseDate": "2026-10-01"
+  },
+  {
+    "id": "local_added_1783265029862",
+    "title": "Solo Leveling: Beyond the System",
+    "category": "Anime",
+    "status": "Upcoming",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT49K10IPcRYhTaiho6X6EoEOG5RIK9yMVAR5C7q8dMNsthhbnk1k-isSc&s=10",
+    "createdAt": "2026-07-05T15:23:49.862Z",
+    "releaseDate": "2027-12-01"
   }
 ]
