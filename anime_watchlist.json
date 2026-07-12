@@ -168,5 +168,16 @@
     "rating": 10,
     "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjmBEupIVJ8hg5lfpeKfE3-exJ0NKf_JuWEqy4W1W0Mw&s=10",
     "createdAt": "2026-07-07T15:13:02.550Z"
+  },
+  {
+    "id": "local_added_1783780959850",
+    "title": "Sakamoto days",
+    "category": "Anime",
+    "status": "Upcoming",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuUZQYg5sp1eezcgnZnqJ0IEuBMFr-cUE62Y2tBvOM2w&s=10",
+    "createdAt": "2026-07-11T14:42:39.850Z",
+    "releaseDate": "2027-01-01"
   }
 ]
