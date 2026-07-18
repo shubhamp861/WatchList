@@ -1,9 +1,9 @@
-   [
-      { 
-         "id": "local_added_17834227475663",
+[
+  {
+    "id": "local_added_17834227475663",
     "title": "Umbrella academy",
     "category": "Series",
-   "status": "Completed",
+    "status": "Completed",
     "genre": "General",
     "rating": 10,
     "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpwGuKw1fMHXHGhrOeeSz7faaYjltJnD273ZWC-Nc9yEJd9ZER4_GjP41pdluqC71TY7JU31C7WlZQoq54sx99n5uSthSbx4a4rTZBrTHW&s=10",
@@ -152,7 +152,7 @@
     "releaseDate": "2019-01-01"
   },
   {
-    "id": "local_added_1783422747643",
+    "id": "local_added_1783422747643_clash_mz5e",
     "title": "Gram Chikitsalay",
     "category": "Series",
     "status": "Plan to Watch",
@@ -163,7 +163,7 @@
     "releaseDate": "2026-06-23"
   },
   {
-    "id": "local_added_1783422701374",
+    "id": "local_added_1783422701374_clash_emkw",
     "title": "Panchayat",
     "category": "Series",
     "status": "Upcoming",
@@ -214,5 +214,25 @@
     "rating": 10,
     "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd6Lxs3hrRTUaWsJPXo5pCwKJ-Z_o5_w_UI7iGKIUmC9zYDSgqzqpu-8-IBry29ea0pEvxu4mU2LasVi-1woMYP_6K2kbL_tetHKbLickMTA&s=10",
     "createdAt": "2026-07-12T05:48:51.388Z"
+  },
+  {
+    "id": "local_added_1784045627447",
+    "title": "The boys",
+    "category": "Series",
+    "status": "Completed",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRypR4BnD6S02p55RXbHsBxhtPX5u97KxPscGGb6N2wzhFkvoH3V5j7RViYJ94e6H5lOCGuLiQ9UyPfr5L1hflRqfhuAv2bO6mu63Ym9zaE&s=10",
+    "createdAt": "2026-07-14T16:13:47.447Z"
+  },
+  {
+    "id": "local_added_1784045399734",
+    "title": "Light shop",
+    "category": "Series",
+    "status": "Plan to Watch",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMT1xUEodg6A9kYvmJHJAy7q5plYpgncCgRbxixYB9XQy1K5cc4P7PHh1fU9no_PamxHxJ2YQf-V-X3neq0dprRNX4NJWCy9F98KeCHGFaYA&s=10",
+    "createdAt": "2026-07-14T16:09:59.734Z"
   }
 ]
