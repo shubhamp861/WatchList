@@ -179,5 +179,26 @@
     "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuUZQYg5sp1eezcgnZnqJ0IEuBMFr-cUE62Y2tBvOM2w&s=10",
     "createdAt": "2026-07-11T14:42:39.850Z",
     "releaseDate": "2027-01-01"
+  },
+  {
+    "id": "local_added_1784391381334_0zuho1f",
+    "title": "My Hero Academia",
+    "category": "Anime",
+    "status": "Completed",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj0ZO7E8t1M6py_XzInuABRAHGpGusQB6PzHfZwRnvjQm1mQSoDgLeVho24fn1I4hQYS1IClxh2daVEQ10kdXHs9IH1qRHa6rooV2jzfan&s=10",
+    "createdAt": "2026-07-18T16:16:21.334Z"
+  },
+  {
+    "id": "local_added_1784391300748_cxcnkjq",
+    "title": "Chainsaw man",
+    "category": "Anime",
+    "status": "Upcoming",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQahBIgdP4NiW5EOUIeWCzeauvBqU_NBWWC9WbtnEMw&s=10",
+    "createdAt": "2026-07-18T16:15:00.748Z",
+    "releaseDate": "2027-12-01"
   }
 ]
