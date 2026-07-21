@@ -200,5 +200,36 @@
     "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQahBIgdP4NiW5EOUIeWCzeauvBqU_NBWWC9WbtnEMw&s=10",
     "createdAt": "2026-07-18T16:15:00.748Z",
     "releaseDate": "2027-12-01"
+  },
+  {
+    "id": "local_added_1784453551846_l1senrb",
+    "title": "Seven scissor",
+    "category": "Anime",
+    "status": "Plan to Watch",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVCLmzwFrUNavZ01xnJ5mRlZOdeEK6FWhcrLmgNrHAOA&s=10",
+    "createdAt": "2026-07-19T09:32:31.846Z",
+    "releaseDate": "2028-07-01"
+  },
+  {
+    "id": "local_added_1784392271509_70kry03",
+    "title": "Steins Gate",
+    "category": "Anime",
+    "status": "Plan to Watch",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv5wmlVrw810Y7ABDO1Uw2g9qZ57EWmE2yGhG8X_HwRU7nd9seARpdDQgoaODmju9xKXtlPa_DYGQtLL1kJNiMZUQju0KbqKdrufQFbZ7rjQ&s=10",
+    "createdAt": "2026-07-18T16:31:11.509Z"
+  },
+  {
+    "id": "local_added_1784392150804_xnskf5y",
+    "title": "Record of Ragnarok",
+    "category": "Anime",
+    "status": "Plan to Watch",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4WFEKQTmh-uG0c4c04f9XA4oUlgfvOaIUaroKoMmPzA&s=10",
+    "createdAt": "2026-07-18T16:29:10.804Z"
   }
 ]
