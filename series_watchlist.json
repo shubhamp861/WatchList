@@ -11,17 +11,6 @@
     "releaseDate": "2019-01-01"
   },
   {
-    "id": "local_added_1783422747643",
-    "title": "Gram Chikitsalay",
-    "category": "Series",
-    "status": "Plan to Watch",
-    "genre": "General",
-    "rating": 10,
-    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlRybnFgD4MifQXiKvY_agkaMjIjKkY_j0m3RGw6_tEQ&s=10",
-    "createdAt": "2026-07-07T11:12:27.643Z",
-    "releaseDate": "2026-06-23"
-  },
-  {
     "id": "local_added_1783422701374",
     "title": "Panchayat",
     "category": "Series",
@@ -152,17 +141,6 @@
     "releaseDate": "2019-01-01"
   },
   {
-    "id": "local_added_1783422747643_clash_mz5e",
-    "title": "Gram Chikitsalay",
-    "category": "Series",
-    "status": "Plan to Watch",
-    "genre": "General",
-    "rating": 10,
-    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlRybnFgD4MifQXiKvY_agkaMjIjKkY_j0m3RGw6_tEQ&s=10",
-    "createdAt": "2026-07-07T11:12:27.643Z",
-    "releaseDate": "2026-06-23"
-  },
-  {
     "id": "local_added_1783422701374_clash_emkw",
     "title": "Panchayat",
     "category": "Series",
@@ -234,5 +212,16 @@
     "rating": 10,
     "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMT1xUEodg6A9kYvmJHJAy7q5plYpgncCgRbxixYB9XQy1K5cc4P7PHh1fU9no_PamxHxJ2YQf-V-X3neq0dprRNX4NJWCy9F98KeCHGFaYA&s=10",
     "createdAt": "2026-07-14T16:09:59.734Z"
+  },
+  {
+    "id": "local_added_1783422747643_clash_mz5e",
+    "title": "Gram Chikitsalay",
+    "category": "Series",
+    "status": "Completed",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlRybnFgD4MifQXiKvY_agkaMjIjKkY_j0m3RGw6_tEQ&s=10",
+    "createdAt": "2026-07-07T11:12:27.643Z",
+    "releaseDate": "2026-06-23"
   }
 ]
