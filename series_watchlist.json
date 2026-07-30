@@ -223,5 +223,88 @@
     "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlRybnFgD4MifQXiKvY_agkaMjIjKkY_j0m3RGw6_tEQ&s=10",
     "createdAt": "2026-07-07T11:12:27.643Z",
     "releaseDate": "2026-06-23"
+  },
+  {
+    "id": "local_added_1785434131883_x3o8q73",
+    "title": "Dhootha",
+    "category": "Series",
+    "status": "Completed",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlVMzMmKgBGUO4V8zHoHjiTHj54B_ot-_-V0Hvgjb-WA&s=10",
+    "createdAt": "2026-07-30T17:55:31.885Z"
+  },
+  {
+    "id": "local_added_1785410505777_lurt5ry",
+    "title": "The Big Bang Theory",
+    "category": "Series",
+    "status": "Completed",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5AULIv6OkIcnuoID_jmsp9emCWrnd9EkGyMylVrcDUQ&s=10",
+    "createdAt": "2026-07-30T11:21:45.777Z"
+  },
+  {
+    "id": "local_added_1785347903054_7oae3or",
+    "title": "The Rain",
+    "category": "Series",
+    "status": "Plan to Watch",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9sdl2R3etA-RvXj_3GjkU4huIMaUdVlO0hKNhNngZ1gb4oXEFpMTIB1ZpE2IERXjReAfMNH80w7Ujl_RAUQVeZ1pRUla46WnVzXAHjwU&s=10",
+    "createdAt": "2026-07-29T17:58:23.055Z"
+  },
+  {
+    "id": "local_added_1785338832549_1ozesn0",
+    "title": "Adarsh Baal Vidyalaya",
+    "category": "Series",
+    "status": "Plan to Watch",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGQ1lKu6iHKJ7s6x81mKGeFA9NAoexWwidBwQGUrzyAw&s=10",
+    "createdAt": "2026-07-29T15:27:12.549Z"
+  },
+  {
+    "id": "local_added_1785176546385_0536qv2",
+    "title": "2 Broke Girl",
+    "category": "Series",
+    "status": "Plan to Watch",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSefp_UCtqk8RB6MnOXQxM4MDOG3pDWFknwBqSm3MhCn3R6a9hma0di_LLgrR3OulTMc-aUpz7vvq71LKA3AX507FsaVHIj6AToQttyuJmpRg&s=10",
+    "createdAt": "2026-07-27T18:22:26.385Z"
+  },
+  {
+    "id": "local_added_1784963197648_fykal79",
+    "title": "just add magic mystery city",
+    "category": "Series",
+    "status": "Plan to Watch",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRorCBNl-Vr8gBw8KmoEWjnLPfQBbBY1qSHn0UhzOn0sA&s=10",
+    "createdAt": "2026-07-25T07:06:37.648Z",
+    "releaseDate": "2020-07-08"
+  },
+  {
+    "id": "local_added_1784961800944_m4xvl0o",
+    "title": "3 body problem",
+    "category": "Series",
+    "status": "Upcoming",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWv0c_UaWoClQEzfDU_KKcwR97zj9zcHhcluvjXbCWh5JJmTyJtWDBJ2XIxj2xkhwntl8NZMqnVCZSPnp3M3Dyj8MN66J3Fbi74Ffn6ToZGg&s=10",
+    "createdAt": "2026-07-25T06:43:20.944Z",
+    "releaseDate": "2026-12-31"
+  },
+  {
+    "id": "local_added_1784961703511_3s2f6r8",
+    "title": "3 %",
+    "category": "Series",
+    "status": "Plan to Watch",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFiURn2gBLhqM3c2Hs1c-03wTY4Gks2kTZBmuxKKJKzA&s=10",
+    "createdAt": "2026-07-25T06:41:43.511Z",
+    "releaseDate": "2016-07-01"
   }
 ]
