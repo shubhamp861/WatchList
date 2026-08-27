@@ -255,16 +255,6 @@
     "createdAt": "2026-07-29T17:58:23.055Z"
   },
   {
-    "id": "local_added_1785338832549_1ozesn0",
-    "title": "Adarsh Baal Vidyalaya",
-    "category": "Series",
-    "status": "Plan to Watch",
-    "genre": "General",
-    "rating": 10,
-    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGQ1lKu6iHKJ7s6x81mKGeFA9NAoexWwidBwQGUrzyAw&s=10",
-    "createdAt": "2026-07-29T15:27:12.549Z"
-  },
-  {
     "id": "local_added_1785176546385_0536qv2",
     "title": "2 Broke Girl",
     "category": "Series",
@@ -306,5 +296,46 @@
     "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFiURn2gBLhqM3c2Hs1c-03wTY4Gks2kTZBmuxKKJKzA&s=10",
     "createdAt": "2026-07-25T06:41:43.511Z",
     "releaseDate": "2016-07-01"
+  },
+  {
+    "id": "local_added_1787422518527_mrqmuyv",
+    "title": "The order",
+    "category": "Series",
+    "status": "Completed",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2N9pbRgiE9n_x6IxLqqGHFfATHLXTCcoJW1IBQoqzhJikNxLEYgK4qPx8-XjXUvsncvrA5v8K3eWiEphvntwx4WmHoLTa2y3NOY92dkSsCg&s=10",
+    "createdAt": "2026-08-22T18:15:18.527Z"
+  },
+  {
+    "id": "local_added_1787422115182_oqnuvz7",
+    "title": "Under the dome",
+    "category": "Series",
+    "status": "Plan to Watch",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://m.media-amazon.com/images/S/pv-target-images/02c53fbb235012d62e8b34522741decbd3bb6ff101aa552b6cda921217d65f7e._SX1080_FMjpg_.jpg",
+    "createdAt": "2026-08-22T18:08:35.182Z"
+  },
+  {
+    "id": "local_added_1787422061301_htt21ah",
+    "title": "Wednesday",
+    "category": "Series",
+    "status": "Plan to Watch",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyfyqI2sY1vKVEsdMY9JnW0g8BnHVdXXIR8zGX8sVhXbo2j0zvizh4SEfPOgyXlQddr2qZGK3ZmyJtQmRkAVxf_ySlf3X7MCcPkF7YAmPYOQ&s=10",
+    "createdAt": "2026-08-22T18:07:41.301Z",
+    "releaseDate": "2027-01-01"
+  },
+  {
+    "id": "local_added_1785338832549_1ozesn0",
+    "title": "Adarsh Baal Vidyalaya",
+    "category": "Series",
+    "status": "Completed",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGQ1lKu6iHKJ7s6x81mKGeFA9NAoexWwidBwQGUrzyAw&s=10",
+    "createdAt": "2026-07-29T15:27:12.549Z"
   }
 ]
