@@ -62,5 +62,26 @@
     "coverUrl": "https://m.media-amazon.com/images/M/MV5BMTRlYmI1NTMtYTVkYi00MjJkLWE3ZGItOThkYTdhNzBhMThhXkEyXkFqcGc@._V1_.jpg",
     "createdAt": "2026-07-14T16:04:27.030Z",
     "releaseDate": "2026-07-01"
+  },
+  {
+    "id": "local_added_1785645740839_if365u3",
+    "title": "The Sea Beast",
+    "category": "Hollywood",
+    "status": "Completed",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5DLCpwaLoguNAZ5XPpy1FRU3Cb17BrUwlpoQtIlI8tM6Fxb-RVNbtO6McANtm6vMjv29_NyAVnjuZm9fcOpse5lKGTHbaxVso1OAZELD9Hw&s=10",
+    "createdAt": "2026-08-02T04:42:20.839Z"
+  },
+  {
+    "id": "local_added_1785645695065_0w7i9k7",
+    "title": "Moana 2026",
+    "category": "Hollywood",
+    "status": "Plan to Watch",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDRz4Ovvb3AwfOmkwi2JUqR0tn9nYdRPaqy0s_ehd1K94bNdqEq55C6yd5_5NkFDFRQ_99AHKT9pNoF9LXyotLYKcFSZaiNjdeeNzbfw&s=10",
+    "createdAt": "2026-08-02T04:41:35.065Z",
+    "releaseDate": "2026-08-02"
   }
 ]
