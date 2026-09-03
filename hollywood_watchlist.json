@@ -53,17 +53,6 @@
     "releaseDate": "2027-02-05"
   },
   {
-    "id": "local_added_1784045067030",
-    "title": "Elona homes",
-    "category": "Hollywood",
-    "status": "Plan to Watch",
-    "genre": "General",
-    "rating": 10,
-    "coverUrl": "https://m.media-amazon.com/images/M/MV5BMTRlYmI1NTMtYTVkYi00MjJkLWE3ZGItOThkYTdhNzBhMThhXkEyXkFqcGc@._V1_.jpg",
-    "createdAt": "2026-07-14T16:04:27.030Z",
-    "releaseDate": "2026-07-01"
-  },
-  {
     "id": "local_added_1785645740839_if365u3",
     "title": "The Sea Beast",
     "category": "Hollywood",
@@ -83,5 +72,36 @@
     "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDRz4Ovvb3AwfOmkwi2JUqR0tn9nYdRPaqy0s_ehd1K94bNdqEq55C6yd5_5NkFDFRQ_99AHKT9pNoF9LXyotLYKcFSZaiNjdeeNzbfw&s=10",
     "createdAt": "2026-08-02T04:41:35.065Z",
     "releaseDate": "2026-08-02"
+  },
+  {
+    "id": "local_added_1788114008969_lwr4r3h",
+    "title": "The Platform",
+    "category": "Hollywood",
+    "status": "Completed",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEsdgvCQIgfJdnE64Ks7fjkmLvgS7RsHoA8Q3-DIF_5ZsFXlEuv7RAMIOSB8qrqvM6zRIvElcZaqs37_T3ksJ-iHZw7TM_PCsi2-Rong&s=10",
+    "createdAt": "2026-08-30T18:20:08.969Z"
+  },
+  {
+    "id": "local_added_1788113953285_tyaun75",
+    "title": "The Menu",
+    "category": "Hollywood",
+    "status": "Completed",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://i.ytimg.com/vi/C_uTkUGcHv4/maxresdefault.jpg",
+    "createdAt": "2026-08-30T18:19:13.285Z"
+  },
+  {
+    "id": "local_added_1784045067030",
+    "title": "Elona homes",
+    "category": "Hollywood",
+    "status": "Completed",
+    "genre": "General",
+    "rating": 10,
+    "coverUrl": "https://m.media-amazon.com/images/M/MV5BMTRlYmI1NTMtYTVkYi00MjJkLWE3ZGItOThkYTdhNzBhMThhXkEyXkFqcGc@._V1_.jpg",
+    "createdAt": "2026-07-14T16:04:27.030Z",
+    "releaseDate": "2026-07-01"
   }
 ]
